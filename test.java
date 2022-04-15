@@ -13,10 +13,10 @@ public class javaCalculator
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("please enter the first number");
+        System.out.println("Please Enter the first number");
         num1 = input.nextInt();
 
-        System.out.println("please enter the second number");
+        System.out.println("Please Enter the second number");
         num2 = input.nextInt();
 
         Scanner op = new Scanner(System.in);
