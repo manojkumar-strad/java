@@ -16,12 +16,12 @@ public class javaCalculator
         System.out.println("Please Enter the first number");
         num1 = input.nextInt();
 
-        System.out.println("Please Enter the second number");
+        System.out.println("please Enter the second number");
         num2 = input.nextInt();
 
         Scanner op = new Scanner(System.in);
 
-        System.out.println("Please enter operation");
+        System.out.println("please enter operation");
         operation = op.next();
 
         if (operation == "+");
